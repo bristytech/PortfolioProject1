@@ -14,11 +14,7 @@ Technology :
 - Image
 - Video
 
-TODO 
-1. We will create a nav bar
-2. We will use an image
-3. We will create a table and form
-4. Some design 
+
 
 
 
